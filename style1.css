@@ -40,11 +40,16 @@ p{
     padding-left: 25px;
     padding-right: 25px;
 }
+<<<<<<< Updated upstream
 .row {
+=======
+.row{
+>>>>>>> Stashed changes
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
+<<<<<<< Updated upstream
 }
 .col-2{
     flex-basis: 50%;
@@ -419,3 +424,16 @@ input:focus{
 }
 
 
+=======
+
+}
+.col-2{
+    flex-basis:50%;
+    min-width: 300px;
+}
+.col-2 img{
+    max-width:100%;
+    
+    width: ;
+}
+>>>>>>> Stashed changes
